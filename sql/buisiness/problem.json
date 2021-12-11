@@ -1,0 +1,9 @@
+{
+	"author" : "camelcaramel",
+	"pusblish_date":"20210304",
+	"reference" : "2019 대비 임용고사 기출",
+	"problem_content" : "모든 회사원을 검색하는 sql 질의문을 작성하시오",
+	"data_set_explanations" : [	"테이블은 스키마는 다음과 같이 구성됩니다.",
+								"CREATE TABLE EMPLOYEE(emp_num char(10) not null, name char(10), age int);",
+								"CREATE TABLE manager(emp_num char(10) not null, name char(10), age int);"]
+}

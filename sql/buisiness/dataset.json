@@ -1,0 +1,16 @@
+{
+	"table_number" : 2,
+	"table_data" : [
+		{	"table_name" : "employee",
+			"attributes" : ["name", "age", "emp_num"],
+			"create_table_query" : "CREATE TABLE employee(emp_num char(10) not null, name char(10), age int);",
+			"tuples" : [{"name" : "Kim", "age" : 10, "emp_num" : "1024"}, {"name" : "Park", "age" : 11, "emp_num" : "2048"}]
+		},
+		{
+			"table_name" : "manager",
+			"attributes" : ["name", "age","emp_num"],
+			"create_table_query" : "CREATE TABLE manager(emp_num char(10) not null, name char(10), age int);",
+			"tuples" : [{"name" : "Kim", "age" : 10, "emp_num" : "1024"}]
+		}
+	]
+}

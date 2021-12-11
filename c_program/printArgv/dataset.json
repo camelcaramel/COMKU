@@ -1,0 +1,5 @@
+{
+	"arguments_number" : 1,
+	"attributes" : ["str"],
+	"argumnet_list" : ["hello", "camel caramel", "good"]
+}

@@ -1,0 +1,4 @@
+{
+	"result_attributes" : ["name", "emp_num", "age"],
+	"result_tuples" : [{"name" : "Kim", "emp_num" : "1024", "age" : 10},{"name" : "Park", "emp_num" : "2048", "age" : 11} ]
+}
